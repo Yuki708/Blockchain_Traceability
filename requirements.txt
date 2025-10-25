@@ -1,0 +1,3 @@
+email_1w.csv是1w个样本的数据集，完整的1.5G的数据集是email.csv。
+
+
